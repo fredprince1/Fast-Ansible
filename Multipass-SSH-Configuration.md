@@ -52,7 +52,7 @@ ifconfig
 ``` 
 > on controlnode
 ssh-keygen (no password, enter 3 times)
-cat ~/.ssh/id_rsa.pub (copy the value)
+cat ~/.ssh/id_ed25519.pub (copy the value)
 ``` 
 
 ![image](https://user-images.githubusercontent.com/10358317/201083201-8e0a9bfb-8001-429e-881f-d38a7c970015.png)
